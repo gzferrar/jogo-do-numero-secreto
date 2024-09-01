@@ -13,6 +13,7 @@ O "Jogo do Número Secreto" é um jogo simples onde o jogador deve adivinhar um 
 - HTML5
 - CSS3
 - JavaScript
+- [ResponsiveVoice](https://responsivevoice.org) para feedback de voz
 
 ## 🕹️ Como Jogar
 🔗 Acesse o link: [Jogo do Número Secreto](https://jogo-nyfliu46y-gzferrars-projects.vercel.app/) ou abra o arquivo `index.html` no seu navegador.
